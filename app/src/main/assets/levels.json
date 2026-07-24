@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["C", "A", "T"],
+    "words": [
+      { "id": "w1_1", "text": "CAT", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w1_2", "text": "ACT", "startRow": 0, "startCol": 1, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["TAC"]
+  },
+  {
+    "id": 2,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["D", "O", "G"],
+    "words": [
+      { "id": "w2_1", "text": "DOG", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w2_2", "text": "GOD", "startRow": 0, "startCol": 2, "direction": "VERTICAL" }
+    ],
+    "bonusWords": []
+  },
+  {
+    "id": 3,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["S", "T", "A", "R"],
+    "words": [
+      { "id": "w3_1", "text": "STAR", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w3_2", "text": "ARTS", "startRow": 0, "startCol": 2, "direction": "VERTICAL" },
+      { "id": "w3_3", "text": "RAT", "startRow": 1, "startCol": 2, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["TAR", "SAT"]
+  },
+  {
+    "id": 4,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["G", "A", "M", "E"],
+    "words": [
+      { "id": "w4_1", "text": "GAME", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w4_2", "text": "MEGA", "startRow": 0, "startCol": 2, "direction": "VERTICAL" },
+      { "id": "w4_3", "text": "GEM", "startRow": 2, "startCol": 2, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["MAGE", "AGE"]
+  },
+  {
+    "id": 5,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["B", "I", "R", "D"],
+    "words": [
+      { "id": "w5_1", "text": "BIRD", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w5_2", "text": "RIB", "startRow": 0, "startCol": 2, "direction": "VERTICAL" },
+      { "id": "w5_3", "text": "BID", "startRow": 2, "startCol": 2, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["RID"]
+  },
+  {
+    "id": 6,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["P", "L", "A", "N", "T"],
+    "words": [
+      { "id": "w6_1", "text": "PLANT", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w6_2", "text": "PLAN", "startRow": 0, "startCol": 0, "direction": "VERTICAL" },
+      { "id": "w6_3", "text": "ANT", "startRow": 2, "startCol": 0, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["PAN", "TAN", "TAP", "PLAT"]
+  },
+  {
+    "id": 7,
+    "gridWidth": 7,
+    "gridHeight": 5,
+    "wheelLetters": ["S", "T", "O", "N", "E"],
+    "words": [
+      { "id": "w7_1", "text": "STONE", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w7_2", "text": "NOTES", "startRow": 0, "startCol": 3, "direction": "VERTICAL" },
+      { "id": "w7_3", "text": "TONE", "startRow": 2, "startCol": 3, "direction": "HORIZONTAL" },
+      { "id": "w7_4", "text": "ONE", "startRow": 1, "startCol": 3, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["NET", "SET", "TEN", "NEST", "TOES"]
+  },
+  {
+    "id": 8,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["B", "R", "A", "V", "E"],
+    "words": [
+      { "id": "w8_1", "text": "BRAVE", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w8_2", "text": "BARE", "startRow": 0, "startCol": 0, "direction": "VERTICAL" },
+      { "id": "w8_3", "text": "RAVE", "startRow": 0, "startCol": 1, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["BEAR", "VERB", "EAR", "BAR"]
+  },
+  {
+    "id": 9,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["C", "L", "O", "U", "D"],
+    "words": [
+      { "id": "w9_1", "text": "CLOUD", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w9_2", "text": "COLD", "startRow": 0, "startCol": 0, "direction": "VERTICAL" },
+      { "id": "w9_3", "text": "LOUD", "startRow": 2, "startCol": 0, "direction": "HORIZONTAL" }
+    ],
+    "bonusWords": ["OLD", "DOC"]
+  },
+  {
+    "id": 10,
+    "gridWidth": 6,
+    "gridHeight": 5,
+    "wheelLetters": ["S", "M", "I", "L", "E"],
+    "words": [
+      { "id": "w10_1", "text": "SMILE", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w10_2", "text": "MILE", "startRow": 0, "startCol": 1, "direction": "VERTICAL" },
+      { "id": "w10_3", "text": "LIME", "startRow": 2, "startCol": 1, "direction": "HORIZONTAL" },
+      { "id": "w10_4", "text": "SLIM", "startRow": 0, "startCol": 0, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["SLIME", "LIES", "ELM"]
+  },
+  {
+    "id": 11,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["T", "R", "A", "I", "N"],
+    "words": [
+      { "id": "w11_1", "text": "TRAIN", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w11_2", "text": "RAIN", "startRow": 0, "startCol": 1, "direction": "VERTICAL" },
+      { "id": "w11_3", "text": "TAN", "startRow": 0, "startCol": 0, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["TIN", "AIR", "ANT", "TAR", "RAN"]
+  },
+  {
+    "id": 12,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["S", "H", "A", "R", "E"],
+    "words": [
+      { "id": "w12_1", "text": "SHARE", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w12_2", "text": "HARE", "startRow": 0, "startCol": 1, "direction": "VERTICAL" },
+      { "id": "w12_3", "text": "SHE", "startRow": 0, "startCol": 0, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["ARE", "EAR", "ERA", "HER", "ASH", "HAS", "HEAR", "SEAR"]
+  },
+  {
+    "id": 13,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["F", "L", "A", "M", "E"],
+    "words": [
+      { "id": "w13_1", "text": "FLAME", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w13_2", "text": "LEAF", "startRow": 0, "startCol": 1, "direction": "VERTICAL" },
+      { "id": "w13_3", "text": "ALE", "startRow": 0, "startCol": 2, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["FAME", "ELM", "MEAL", "LAME", "ELF"]
+  },
+  {
+    "id": 14,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["B", "R", "E", "A", "D"],
+    "words": [
+      { "id": "w14_1", "text": "BREAD", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w14_2", "text": "DEAR", "startRow": 0, "startCol": 4, "direction": "VERTICAL" },
+      { "id": "w14_3", "text": "BEAR", "startRow": 0, "startCol": 0, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["BED", "BAD", "RED", "EAR", "ERA", "BAR", "ARE", "DARE", "READ", "BEAD"]
+  },
+  {
+    "id": 15,
+    "gridWidth": 5,
+    "gridHeight": 5,
+    "wheelLetters": ["G", "R", "A", "C", "E"],
+    "words": [
+      { "id": "w15_1", "text": "GRACE", "startRow": 0, "startCol": 0, "direction": "HORIZONTAL" },
+      { "id": "w15_2", "text": "RAGE", "startRow": 0, "startCol": 1, "direction": "VERTICAL" },
+      { "id": "w15_3", "text": "CAGE", "startRow": 0, "startCol": 3, "direction": "VERTICAL" }
+    ],
+    "bonusWords": ["GEAR", "ACE", "CAR", "EAR", "ERA", "ARE", "RACE", "ACRE"]
+  }
+]
+
